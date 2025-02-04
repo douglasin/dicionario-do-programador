@@ -1,30 +1,23 @@
-# dicionario-do-programador
-Repositório feito para armazenar alterações no projeto "Dicionário do Programador Infinito"
+📂 Estrutura do Projeto
+Este projeto está organizado em três fases principais: Pesquisa , Design e Implementação . Cada fase possui suas próprias branches e sub-branches para facilitar o desenvolvimento colaborativo e garantir um fluxo de trabalho claro.
 
-# Estrutura de Branches
-## 1. Branch Principal (main ou master)
+🔧 Fluxo de Trabalho
+Branch Principal (main):
 A branch principal onde todas as alterações finalizadas serão mescladas.
-Regra: Ninguém deve fazer commits diretamente na main. Todas as alterações devem passar por pull requests após revisão. ````
-
-``
-## 2. Branches de Fase
-Cada fase do projeto (pesquisa, design e implementação) terá sua própria branch principal. Essas branches servirão como áreas de integração para consolidar o trabalho de todas as equipes antes de enviar para a main.
-
-``
+Regra: Ninguém deve fazer commits diretamente na main. Todas as alterações devem passar por pull requests após revisão.
+Branches de Fase:
+Cada fase do projeto (Pesquisa, Design e Implementação) tem sua própria branch principal:
 pesquisa
 design
 implementacao
-``
-
-### As branches de fase são criadas a partir da main no início do projeto:
-
-```git checkout main
-git pull origin main
-git checkout -b pesquisa
-```
-
-## 3. Branches de Equipe por Fase
-Cada equipe trabalhará em suas próprias branches dentro de cada fase. Isso permite que cada equipe tenha autonomia para desenvolver sua parte sem interferir no trabalho das outras.
+Branches de Equipe por Fase:
+Dentro de cada fase, cada equipe trabalha em sua própria branch:
+Exemplo: pesquisa/team-1, design/team-2, implementacao/team-3
+Branches de Tema por Fase:
+Dentro de cada equipe, os temas são divididos em branches separadas:
+Exemplo: pesquisa/team-1/tema-1, design/team-2/tema-4, implementacao/team-3/tema-7
+Branch de Integração Final (develop):
+Após concluir o trabalho em cada fase, as alterações são integradas na branch develop antes de serem mescladas com a main
 
 ```
 main
