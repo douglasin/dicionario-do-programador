@@ -26,7 +26,7 @@ git checkout -b pesquisa
 3. Branches de Equipe por Fase
 Cada equipe trabalhará em suas próprias branches dentro de cada fase. Isso permite que cada equipe tenha autonomia para desenvolver sua parte sem interferir no trabalho das outras.
 
-``
+```
 main
 ├── develop
 │   ├── pesquisa
@@ -59,6 +59,6 @@ main
 │   │   │   ├── implementacao/team-2/tema-5
 │   │   │   └── implementacao/team-2/tema-6
 │   │   ...
-``
+```
 
 ````
