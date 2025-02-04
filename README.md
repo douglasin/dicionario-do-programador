@@ -2,12 +2,12 @@
 Repositório feito para armazenar alterações no projeto "Dicionário do Programador Infinito"
 
 # Estrutura de Branches
-`` 1. Branch Principal (main ou master)
+## 1. Branch Principal (main ou master)
 A branch principal onde todas as alterações finalizadas serão mescladas.
 Regra: Ninguém deve fazer commits diretamente na main. Todas as alterações devem passar por pull requests após revisão. ````
 
 ``
-2. Branches de Fase
+## 2. Branches de Fase
 Cada fase do projeto (pesquisa, design e implementação) terá sua própria branch principal. Essas branches servirão como áreas de integração para consolidar o trabalho de todas as equipes antes de enviar para a main.
 
 ``
@@ -16,14 +16,14 @@ design
 implementacao
 ``
 
-As branches de fase são criadas a partir da main no início do projeto:
+### As branches de fase são criadas a partir da main no início do projeto:
 
-git checkout main
+```git checkout main
 git pull origin main
 git checkout -b pesquisa
+```
 
-
-3. Branches de Equipe por Fase
+## 3. Branches de Equipe por Fase
 Cada equipe trabalhará em suas próprias branches dentro de cada fase. Isso permite que cada equipe tenha autonomia para desenvolver sua parte sem interferir no trabalho das outras.
 
 ```
