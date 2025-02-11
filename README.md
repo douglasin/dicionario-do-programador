@@ -7,51 +7,40 @@ A branch principal onde todas as alterações finalizadas serão mescladas.
 Regra: Ninguém deve fazer commits diretamente na main. Todas as alterações devem passar por pull requests após revisão.
 Branches de Fase:
 Cada fase do projeto (Pesquisa, Design e Implementação) tem sua própria branch principal:
-pesquisa
-design
-implementacao
+
+### pesquisa
+### design
+### implementacao
+
 Branches de Equipe por Fase:
 Dentro de cada fase, cada equipe trabalha em sua própria branch:
-Exemplo: pesquisa/team-1, design/team-2, implementacao/team-3
+Exemplo: pesquisa/parte-1, design/parte-2, implementacao/parte-3
+Cada branch receberá um número de identificação associado a um coladorador no projeto.
 Branches de Tema por Fase:
 Dentro de cada equipe, os temas são divididos em branches separadas:
-Exemplo: pesquisa/team-1/tema-1, design/team-2/tema-4, implementacao/team-3/tema-7
-Branch de Integração Final (develop):
-Após concluir o trabalho em cada fase, as alterações são integradas na branch develop antes de serem mescladas com a main
+Após concluir o trabalho em cada fase, as alterações são integradas na branch main
 
 ```
-main
-├── develop
+
+├── main
 │   ├── pesquisa
-│   │   ├── pesquisa/team-1
-│   │   │   ├── pesquisa/team-1/tema-1
-│   │   │   ├── pesquisa/team-1/tema-2
-│   │   │   └── pesquisa/team-1/tema-3
-│   │   ├── pesquisa/team-2
-│   │   │   ├── pesquisa/team-2/tema-4
-│   │   │   ├── pesquisa/team-2/tema-5
-│   │   │   └── pesquisa/team-2/tema-6
+│   │   ├── pesquisa
+│   │   │   ├── pesquisa/parte-1
+│   │   │   └── pesquisa/parte-2
 │   │   ...
 │   ├── design
-│   │   ├── design/team-1
-│   │   │   ├── design/team-1/tema-1
-│   │   │   ├── design/team-1/tema-2
-│   │   │   └── design/team-1/tema-3
-│   │   ├── design/team-2
-│   │   │   ├── design/team-2/tema-4
-│   │   │   ├── design/team-2/tema-5
-│   │   │   └── design/team-2/tema-6
+│   │   ├── design
+│   │   │   ├── design/parte-1
+│   │   │   ├── design/parte-2
 │   │   ...
 │   ├── implementacao
-│   │   ├── implementacao/team-1
-│   │   │   ├── implementacao/team-1/tema-1
-│   │   │   ├── implementacao/team-1/tema-2
-│   │   │   └── implementacao/team-1/tema-3
-│   │   ├── implementacao/team-2
-│   │   │   ├── implementacao/team-2/tema-4
-│   │   │   ├── implementacao/team-2/tema-5
-│   │   │   └── implementacao/team-2/tema-6
-│   │   ...
+│   │   ├── implementacao/
+│   │   │   ├── implementacao/feature/(nome-da-feature)-1
+│   │   │   ├── implementacao/feature/(nome-da-feature)-2
+            ├── implementacao/feature/(nome-da-feature)-3
+            ├── implementacao/feature/(nome-da-feature)-4
+│   │   │   └── implementacao/feature/(nome-da-feature)-5
+
 ```
 
 ````
