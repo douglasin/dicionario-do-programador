@@ -8,7 +8,7 @@ Este projeto está organizado em três fases principais:
 `Pesquisa` , `Design` e `Implementação`. 
 
 
-![image](https://github.com/user-attachments/assets/261d406f-9996-4981-8104-491525b5f568)
+
 
 
 ```/projeto
@@ -46,6 +46,9 @@ Este projeto está organizado em três fases principais:
 │
 └── README.md                   # Documentação do projeto
 ```
+![image](https://github.com/user-attachments/assets/261d406f-9996-4981-8104-491525b5f568)
+
+![image](https://github.com/user-attachments/assets/3a711d51-17b2-41f1-b7ae-2111018f631d)
 
 🔧 Fluxo de Trabalho
 Branch Principal (main):
