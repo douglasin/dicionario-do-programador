@@ -147,21 +147,21 @@ Após concluir o trabalho em cada fase, as alterações são integradas na branc
 ├── main
 │   ├── pesquisa
 │   │   ├── pesquisa
-│   │   │   ├── pesquisa/parte-1
-│   │   │   └── pesquisa/parte-2
-│   │   ...
+│   │       ├── pesquisa/parte-1
+│   │       └── pesquisa/parte-2
+│   │   
 │   ├── design
-│   │   ├── design
-│   │   │   ├── design/parte-1
-│   │   │   ├── design/parte-2
-│   │   ...
-│   ├── implementacao
-│   │   ├── implementacao/
-│   │   │   ├── implementacao/feature/(nome-da-feature)-1
-│   │   │   ├── implementacao/feature/(nome-da-feature)-2
+│       ├── design
+│           ├── design/parte-1
+│           ├── design/parte-2
+│       ...
+    ├── implementacao
+        ├── implementacao/
+            ├── implementacao/feature/(nome-da-feature)-1
+            ├── implementacao/feature/(nome-da-feature)-2
             ├── implementacao/feature/(nome-da-feature)-3
             ├── implementacao/feature/(nome-da-feature)-4
-│   │   │   └── implementacao/feature/(nome-da-feature)-5
+            └── implementacao/feature/(nome-da-feature)-5
 ```
 ### 1. Conventional Commits
 
