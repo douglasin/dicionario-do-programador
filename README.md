@@ -76,9 +76,11 @@ Regra: Ninguém deve fazer commits diretamente na main. Todas as alterações de
 Branches de Fase:
 Cada fase do projeto (Pesquisa, Design e Implementação) tem sua própria branch principal:
 
-### 📈​ pesquisa
-### 📱​ - design
-### 📈​​ - implementacao
+### 🔎​​ Pesquisa:
+`** Responsáveis:
+**`
+### 📱​ - Design
+### 📈​​ - Implementacao
 
 Branches de Equipe por Fase:
 Dentro de cada fase, cada equipe trabalha em sua própria branch:
