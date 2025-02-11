@@ -21,7 +21,7 @@ Aqui, você vai encontrar definições e conceitos essenciais para entender melh
 🔗 **Acesse:** [Dicionário do Programador](https://github.com/douglasin/dicionario-do-programador/)  
 
 
-## 📂 - Estrutura do Projeto
+## 📂  - Estrutura do Projeto
 Este projeto está organizado em três fases principais:
 
 `Pesquisa` , `Design` e `Implementação`. 
@@ -48,7 +48,7 @@ Este projeto está organizado em três fases principais:
 ✅ Garantir que todas as fontes de informação estejam atualizadas e documentadas.  
 
 ### **2️⃣ Organização e Controle**  
-✅ Criar um **diagrama de classes e elementos** com base nos componentes principais do projeto, utilizando **Miro**.  
+✅ Criar um **diagrama de classes e elementos** com base nos componentes principais do projeto, utilizando [**Miro**](https://miro.com/).  
 ✅ Padronizar os **commits**, garantindo que todos sigam as regras estabelecidas.  
 ✅ Garantir que cada desenvolvedor faça **pelo menos 1 commit a cada 15 minutos**.  
 
