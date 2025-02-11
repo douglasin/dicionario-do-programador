@@ -1,6 +1,24 @@
 ![image](https://github.com/user-attachments/assets/09250b18-b685-42b8-9229-dc5eca5b374f)
 
-### Seja bem vindo ao - `Dicionário do Programador!`
+# 🧠 Dicionário do Programador 🚀  
+
+Seja bem-vindo ao **Dicionário do Programador**, um projeto criado para te dar aquele conhecimento que **ninguém te ensina na faculdade, mas que você vai levar para a vida**!  
+
+Aqui, você vai encontrar definições e conceitos essenciais para entender melhor o universo da programação, explorar diferentes áreas da tecnologia e tomar decisões mais assertivas sobre o seu futuro na carreira.  
+
+## 🎯 Nosso Objetivo  
+- **Te guiar além do código**: conceitos de mercado, boas práticas, ferramentas e metodologias que fazem a diferença na sua jornada.  
+- **Expandir seu horizonte**: descubra as diversas áreas da tecnologia e encontre a que mais combina com você.  
+- **Criar uma base sólida**: tenha um repositório de conhecimento acessível, direto e atualizado pela comunidade.  
+
+💡 **Seja você um iniciante ou um desenvolvedor experiente, aqui tem algo novo para aprender!**  
+
+📌 **Quer contribuir?** Fique à vontade para abrir uma issue, sugerir novos termos ou aprimorar as definições existentes!  
+
+✨ **Dê uma ⭐ no repositório e compartilhe com outros devs!** Vamos juntos construir um material que faça a diferença!  
+
+🔗 **Acesse:** [Dicionário do Programador](https://github.com/douglasin/dicionario-do-programador/)  
+
 
 ## 📂 - Estrutura do Projeto
 Este projeto está organizado em três fases principais:
@@ -11,7 +29,7 @@ Este projeto está organizado em três fases principais:
 
 
 
-```/projeto
+``` 🫚 - /projeto
 │
 ├── /assets
 │   ├── /css
