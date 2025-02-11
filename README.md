@@ -2,7 +2,7 @@
 
 ### Seja bem vindo ao - `Dicionário do Programador!`
 
-📂 ## Estrutura do Projeto
+## 📂 - Estrutura do Projeto
 Este projeto está organizado em três fases principais:
 
 `Pesquisa` , `Design` e `Implementação`. 
