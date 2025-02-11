@@ -3,7 +3,8 @@
 ### Seja bem vindo ao - `Dicionário do Programador!`
 
 📂 ## Estrutura do Projeto
-Este projeto está organizado em três fases principais: Pesquisa , Design e Implementação . Cada fase possui suas próprias branches e sub-branches para facilitar o desenvolvimento colaborativo e garantir um fluxo de trabalho claro.
+Este projeto está organizado em três fases principais: ### 
+`Pesquisa` , `Design` e `Implementação`. Cada fase possui suas próprias branches e sub-branches para facilitar o desenvolvimento colaborativo e garantir um fluxo de trabalho claro.
 
 ```/projeto
 │
