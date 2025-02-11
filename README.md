@@ -128,3 +128,4 @@ O padrão de commit mais popular, com uma estrutura clara e consistente para men
 - `perf`: Alterações que melhoram o desempenho.
 - `test`: Adição ou correção de testes.
 - `chore`: Tarefas de manutenção (ex.: atualização de dependências).
+- # Ex: `git commit -m feat: adicionando tela de login 11/02/25 - 10:03`
