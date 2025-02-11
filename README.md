@@ -25,6 +25,57 @@ Aqui, você vai encontrar definições e conceitos essenciais para entender melh
 Este projeto está organizado em três fases principais:
 
 `Pesquisa` , `Design` e `Implementação`. 
+# 📌 Distribuição de Tarefas - Dicionário do Programador  
+
+## 🎨 Design (2 pessoas)  
+### **1️⃣ Identificação Visual**  
+✅ Coletar imagens para cada subtópico nos repositórios dos colegas.  
+✅ Identificar as cores principais do projeto utilizando **ColorZilla** (extensão do Chrome).  
+✅ Definir a paleta de cores e documentar no repositório.  
+✅ Identificar as fontes utilizadas e garantir a consistência visual.  
+✅ Captar e centralizar os ícones necessários para a interface.  
+
+### **2️⃣ Documentação e Prototipação**  
+✅ Criar um documento explicando as diretrizes visuais (paleta, fontes e ícones).  
+✅ Auxiliar na fidelidade ao protótipo durante o desenvolvimento.  
+
+---
+
+## 🔍 Pesquisa (2 pessoas)  
+### **1️⃣ Levantamento de Conteúdo**  
+✅ Coletar todos os textos dos termos e organizar em PDFs separados por tema.  
+✅ Criar um documento de **requisitos funcionais e não funcionais** do projeto.  
+✅ Garantir que todas as fontes de informação estejam atualizadas e documentadas.  
+
+### **2️⃣ Organização e Controle**  
+✅ Criar um **diagrama de classes e elementos** com base nos componentes principais do projeto, utilizando **Miro**.  
+✅ Padronizar os **commits**, garantindo que todos sigam as regras estabelecidas.  
+✅ Garantir que cada desenvolvedor faça **pelo menos 1 commit a cada 15 minutos**.  
+
+---
+
+## ⚙️ Implementação (5 pessoas)  
+### **1️⃣ Estruturação do Projeto**  
+✅ Criar a estrutura de **pastas** do repositório.  
+✅ Dividir a equipe de implementação em **duas frentes**, utilizando o método **Esteira de Produção**:  
+   - 🏗 **Equipe 1**: Responsável pela estrutura HTML e organização do conteúdo.  
+   - 🎨 **Equipe 2**: Responsável pela estilização e responsividade.  
+
+### **2️⃣ Desenvolvimento do Código**  
+✅ Identificar os principais **containers** e distribuir a responsabilidade de estilização para cada desenvolvedor.  
+✅ Criar o **CSS** baseado no protótipo, definindo variáveis reutilizáveis para manter a consistência visual.  
+✅ Revisar e integrar os componentes, garantindo compatibilidade e acessibilidade.  
+
+---
+
+### **📢 Observações Gerais**  
+⚠️ **Todos devem seguir um padrão de commits e branches para facilitar a colaboração**.  
+⚠️ **A equipe de pesquisa deve validar as informações antes de serem inseridas no projeto**.  
+⚠️ **Designers devem revisar a implementação para garantir fidelidade ao protótipo**.  
+
+---
+
+🎯 **Objetivo:** Criar um repositório bem estruturado, com um visual profissional e um conteúdo valioso para a comunidade de programadores! 🚀  
 
 
 
