@@ -1,10 +1,11 @@
-![image](https://github.com/user-attachments/assets/09250b18-b685-42b8-9229-dc5eca5b374f)
 
 # 🧠 Dicionário do Programador 🚀  
 
 Seja bem-vindo ao **Dicionário do Programador**, um projeto criado para te dar aquele conhecimento que **ninguém te ensina na faculdade, mas que você vai levar para a vida**!  
 
 Aqui, você vai encontrar definições e conceitos essenciais para entender melhor o universo da programação, explorar diferentes áreas da tecnologia e tomar decisões mais assertivas sobre o seu futuro na carreira.  
+
+![image](https://github.com/user-attachments/assets/09250b18-b685-42b8-9229-dc5eca5b374f)
 
 ## 🎯 Nosso Objetivo  
 - **Te guiar além do código**: conceitos de mercado, boas práticas, ferramentas e metodologias que fazem a diferença na sua jornada.  
