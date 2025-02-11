@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/09250b18-b685-42b8-9229-dc5eca5b374f)
+Seja bem vindo ao Dicionário do Programador!
+
 📂 Estrutura do Projeto
 Este projeto está organizado em três fases principais: Pesquisa , Design e Implementação . Cada fase possui suas próprias branches e sub-branches para facilitar o desenvolvimento colaborativo e garantir um fluxo de trabalho claro.
 
