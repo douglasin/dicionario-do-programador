@@ -1,6 +1,42 @@
 📂 Estrutura do Projeto
 Este projeto está organizado em três fases principais: Pesquisa , Design e Implementação . Cada fase possui suas próprias branches e sub-branches para facilitar o desenvolvimento colaborativo e garantir um fluxo de trabalho claro.
 
+```/projeto
+│
+├── /assets
+│   ├── /css
+│   │   ├── styles.css          # Estilos globais
+│   │   ├── theme-styles.css    # Estilos específicos para a tela de tema
+│   │   └── menu-styles.css     # Estilos específicos para a tela de menu
+│   │
+│   ├── /js
+│   │   ├── main.js             # Scripts globais
+│   │   ├── menu.js             # Scripts específicos para a tela de menu
+│   │   └── theme.js            # Scripts específicos para a tela de tema
+│   │
+│   ├── /images
+│   │   ├── logo.png            # Imagens globais
+│   │   ├── background.jpg      # Imagens de fundo
+│   │   └── /temas              # Imagens específicas para cada tema
+│   │       ├── tema1.jpg
+│   │       ├── tema2.jpg
+│   │       └── ...
+│   │
+│   └── /fonts                  # Fontes customizadas (se necessário)
+│       ├── font1.woff
+│       └── font2.woff
+│
+├── /pages
+│   ├── index.html              # Tela principal
+│   ├── menu.html               # Tela de menu com os 12 temas
+│   └── /temas                  # Telas de cada tema
+│       ├── tema1.html
+│       ├── tema2.html
+│       └── ...
+│
+└── README.md                   # Documentação do projeto
+```
+
 🔧 Fluxo de Trabalho
 Branch Principal (main):
 A branch principal onde todas as alterações finalizadas serão mescladas.
