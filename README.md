@@ -1,7 +1,7 @@
 
 # 🧠 Dicionário do Programador 🚀  
 
-Seja bem-vindo ao **Dicionário do Programador**, um projeto criado para te dar aquele conhecimento que você vai levar para a vida**!  
+Seja bem-vindo ao **Dicionário do Programador**, um projeto criado para te dar aquele conhecimento que você vai levar para a vida!  
 
 Aqui, você vai encontrar definições e conceitos essenciais para entender melhor o universo da programação, explorar diferentes áreas da tecnologia e tomar decisões mais assertivas sobre o seu futuro na carreira.  
 
