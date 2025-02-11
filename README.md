@@ -136,7 +136,7 @@ Cada fase do projeto (Pesquisa, Design e Implementação) tem sua própria branc
 
 Branches de Equipe por Fase:
 Dentro de cada fase, cada equipe trabalha em sua própria branch:
-Exemplo: pesquisa/parte-1, design/parte-2, implementacao/parte-3
+Exemplo: pesquisa/parte-1, design/parte-2, implementacao/feature/(nome_da_feature)(id)
 Cada branch receberá um número de identificação associado a um coladorador no projeto.
 Branches de Tema por Fase:
 Dentro de cada equipe, os temas são divididos em branches separadas:
