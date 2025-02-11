@@ -1,4 +1,4 @@
-
+'
 # 🧠 Dicionário do Programador 🚀  
 
 Seja bem-vindo ao **Dicionário do Programador**, um projeto criado para te dar aquele conhecimento que você vai levar para a vida!  
@@ -127,12 +127,12 @@ Regra: Ninguém deve fazer commits diretamente na main. Todas as alterações de
 Branches de Fase:
 Cada fase do projeto (Pesquisa, Design e Implementação) tem sua própria branch principal:
 
-### 🔎​​ Pesquisa:
+### 🔎​​ Pesquisa: ## Wallison
 `Responsáveis: `
 ### 📱​ - Design
-`Responsáveis: `
+`Responsáveis: ` ### Samuel
 ### 📈​​ - Implementacao
-`Responsáveis: `
+`Responsáveis: ` ### Lider: André, Daniel, Leonardo, Liege e Darlene.
 
 Branches de Equipe por Fase:
 Dentro de cada fase, cada equipe trabalha em sua própria branch:
