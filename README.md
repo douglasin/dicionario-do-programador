@@ -6,7 +6,10 @@
 Este projeto está organizado em três fases principais:
 
 `Pesquisa` , `Design` e `Implementação`. 
-# Cada fase possui suas próprias branches e sub-branches para facilitar o desenvolvimento colaborativo e garantir um fluxo de trabalho claro.
+
+
+![image](https://github.com/user-attachments/assets/261d406f-9996-4981-8104-491525b5f568)
+
 
 ```/projeto
 │
