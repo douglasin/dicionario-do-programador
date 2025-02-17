@@ -128,11 +128,23 @@ Branches de Fase:
 Cada fase do projeto (Pesquisa, Design e Implementação) tem sua própria branch principal:
 
 ### 🔎​​ Pesquisa:
-`Responsáveis: `
+`Responsáveis:`
+[Wallison(01)](https://github.com/WAllisonDuarte),
+[Liege(02)](https://github.com/LiegePaula)
+ e [Talia(03)](?)
+
 ### 📱​ - Design
-`Responsáveis: `
+`Responsáveis:`
+[Otávio(04)](https://github.com/DevOtaviox)
+e [Darlene(05)](https://github.com/DarleneGomes)`
 ### 📈​​ - Implementacao
-`Responsáveis: `
+`Responsáveis:`
+[André(06)](https://github.com/Dezin22), 
+[Daniel(07)](https://github.com/danielvidal2005),
+[Leonardo(08)](https://github.com/Leonardonascimentodossantos),
+[Mário(09)](https://github.com/Mariohenriquecmv),
+[Samuel(10)](https://github.com/DevSamuelJ)
+e [Lucas(11)](https://github.com/lobomalone2)
 
 Branches de Equipe por Fase:
 Dentro de cada fase, cada equipe trabalha em sua própria branch:
