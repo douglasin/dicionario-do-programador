@@ -29,9 +29,13 @@ Este projeto está organizado em três fases principais:
 
 ## 🎨 Design (2 pessoas)  
 ### **1️⃣ Identificação Visual**  
-✅ Coletar imagens para cada subtópico nos repositórios dos colegas.  
+✅ Coletar imagens para cada subtópico nos repositórios dos colegas. 
+   - [PROJETO-HTML](https://github.com/WAllisonDuarte/PROJETO-HTML)
+   - [Estudo Dirigido - danielvidal2005](https://github.com/danielvidal2005/estudo-dirigido)
+   - [Estudo Dirigido - Gabrielff748](https://github.com/Gabrielff748/Estudo-dirigido)
+   - [Repositório DevSamuelJ](https://github.com/DevSamuelJ/DevSamuelJ) 
 ✅ Identificar as cores principais do projeto utilizando **ColorZilla** (extensão do Chrome).  
-✅ Definir a paleta de cores e documentar no repositório.  
+✅ Definir a paleta de cores e documentar no repositório. Definir cores como variáveis no css  
 ✅ Identificar as fontes utilizadas e garantir a consistência visual.  
 ✅ Captar e centralizar os ícones necessários para a interface.  
 
@@ -41,16 +45,20 @@ Este projeto está organizado em três fases principais:
 
 ---
 
-## 🔍 Pesquisa (2 pessoas)  
+## 🔍 Pesquisa (3 pessoas)  
 ### **1️⃣ Levantamento de Conteúdo**  
-✅ Coletar todos os textos dos termos e organizar em PDFs separados por tema.  
-✅ Criar um documento de **requisitos funcionais e não funcionais** do projeto.  
+✅ Coletar todos os textos dos termos e organizar em PDFs separados por tema. 
+   - [PROJETO-HTML](https://github.com/WAllisonDuarte/PROJETO-HTML)
+   - [Estudo Dirigido - danielvidal2005](https://github.com/danielvidal2005/estudo-dirigido)
+   - [Estudo Dirigido - Gabrielff748](https://github.com/Gabrielff748/Estudo-dirigido)
+   - [Repositório DevSamuelJ](https://github.com/DevSamuelJ/DevSamuelJ) 
+✅ Criar um documento de **requisitos funcionais e não funcionais**
+[Requisitos Funcionais e Não Funcionais - O que são?](https://www.mestresdaweb.com.br/tecnologias/requisitos-funcionais-e-nao-funcionais-o-que-sao) do projeto.  
 ✅ Garantir que todas as fontes de informação estejam atualizadas e documentadas.  
 
-### **2️⃣ Organização e Controle**  
-✅ Criar um **diagrama de classes e elementos** com base nos componentes principais do projeto, utilizando [**Miro**](https://miro.com/).  
+### **2️⃣ Organização e Controle**   
 ✅ Padronizar os **commits**, garantindo que todos sigam as regras estabelecidas.  
-✅ Garantir que cada desenvolvedor faça **pelo menos 1 commit a cada 15 minutos**.  
+✅ Garantir que cada desenvolvedor faça **pelo menos 1 commit a cada 30 minutos**.  
 
 ---
 
@@ -86,13 +94,13 @@ Este projeto está organizado em três fases principais:
 ├── /assets
 │   ├── /css
 │   │   ├── styles.css          # Estilos globais
-│   │   ├── theme-styles.css    # Estilos específicos para a tela de tema
-│   │   └── menu-styles.css     # Estilos específicos para a tela de menu
+│   │   ├── theme-styles.css    # Estilos específicos para a tela de tema - (se necessário)
+│   │   └── menu-styles.css     # Estilos específicos para a tela de menu - (se necessário)
 │   │
 │   ├── /js
 │   │   ├── main.js             # Scripts globais
-│   │   ├── menu.js             # Scripts específicos para a tela de menu
-│   │   └── theme.js            # Scripts específicos para a tela de tema
+│   │   ├── menu.js             # Scripts específicos para a tela de menu - (se necessário)
+│   │   └── theme.js            # Scripts específicos para a tela de tema - (se necessário)
 │   │
 │   ├── /images
 │   │   ├── logo.png            # Imagens globais
@@ -108,12 +116,7 @@ Este projeto está organizado em três fases principais:
 │
 ├── /pages
 │   ├── index.html              # Tela principal
-│   ├── menu.html               # Tela de menu com os 12 temas
-│   └── /temas                  # Telas de cada tema
-│       ├── tema1.html
-│       ├── tema2.html
-│       └── ...
-│
+│   └── 
 └── README.md                   # Documentação do projeto
 ```
 ![image](https://github.com/user-attachments/assets/261d406f-9996-4981-8104-491525b5f568)
@@ -145,6 +148,7 @@ e [Darlene(05)](https://github.com/DarleneGomes)`
 [Mário(09)](https://github.com/Mariohenriquecmv),
 [Samuel(10)](https://github.com/DevSamuelJ)
 e [Lucas(11)](https://github.com/lobomalone2)
+e Gabriel
 
 Branches de Equipe por Fase:
 Dentro de cada fase, cada equipe trabalha em sua própria branch:
@@ -157,23 +161,19 @@ Após concluir o trabalho em cada fase, as alterações são integradas na branc
 ```
 
 ├── main
-│   ├── pesquisa
-│   │   ├── pesquisa
-│   │   │   ├── pesquisa/parte-1
-│   │   │   └── pesquisa/parte-2
-│   │   ...
-│   ├── design
-│   │   ├── design
-│   │   │   ├── design/parte-1
-│   │   │   ├── design/parte-2
-│   │   ...
-│   ├── implementacao
-│   │   ├── implementacao/
-│   │   │   ├── implementacao/feature/(nome-da-feature)-1
-│   │   │   ├── implementacao/feature/(nome-da-feature)-2
-            ├── implementacao/feature/(nome-da-feature)-3
-            ├── implementacao/feature/(nome-da-feature)-4
-│   │   │   └── implementacao/feature/(nome-da-feature)-5
+│   ├── pesquisa/parte-1
+│   └── pesquisa/parte-2
+│   │   
+│   ├── design/parte-1
+│   ├── design/parte-2
+│   │  
+│   ├── implementacao/feature/(nome-da-feature)-(06)
+│   ├── implementacao/feature/(nome-da-feature)-(07)
+|   ├── implementacao/feature/(nome-da-feature)-(08)
+|   ├── implementacao/feature/(nome-da-feature)-(09)
+|   ├── implementacao/feature/(nome-da-feature)-(10)
+    ├── implementacao/feature/(nome-da-feature)-(11)
+|   └── implementacao/feature/(nome-da-feature)-(12)
 ```
 ### 1. Conventional Commits
 
@@ -195,3 +195,46 @@ O padrão de commit mais popular, com uma estrutura clara e consistente para men
 - `test`: Adição ou correção de testes.
 - `chore`: Tarefas de manutenção (ex.: atualização de dependências).
 - # Ex: `git commit -m feat: adicionando tela de login 11/02/25 - 10:03`
+
+
+
+### Lidando com conflitos:
+# Fluxo de Git Rebase e Merge
+
+Quando dois colaboradores fazem alterações nas mesmas linhas de código, um conflito de merge pode ocorrer. Para resolver isso e garantir que a versão mais recente seja sincronizada com a branch principal, o colaborador pode seguir o fluxo de rebase e merge.
+
+### Fluxo de Rebase
+
+O colaborador A faz um PR para adicionar sua seção.
+O colaborador B faz um PR para sua própria seção.
+Se houver conflito, o colaborador deve usar `git rebase` ou `git merge` para resolver os conflitos antes de submeter a mudança final.
+
+## Passos para resolver conflitos com Git Rebase:
+
+### 1. No repositório local do colaborador B:
+```
+Selecione a branch da funcionalidade que você está trabalhando:
+git checkout feature/secao_2
+
+```
+```
+Puxe as atualizações da branch principal:
+git fetch origin
+```
+```
+Rebase na branch principal para pegar as atualizações:
+Resolva os conflitos (se houver) nos arquivos. O Git irá interromper o rebase e pedir para resolver os conflitos manualmente.
+git rebase origin/main
+```
+
+```
+Após resolver os conflitos, adicione os arquivos corrigidos:
+git add <arquivo_resolvido>
+```
+```
+Continue o rebase:
+git rebase --continue
+```
+```Finalize o processo e faça o push para a branch remota:
+git push origin feature/secao_2 --force
+```

@@ -1,0 +1,67 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+/* Barra lateral */
+.sidebar {
+    width: 250px;
+    background: #222;
+    color: white;
+    padding: 20px;
+    position: fixed;
+    height: 100%;
+    left: 0;
+    top: 0;
+    transition: transform 0.3s ease-in-out;
+}
+
+.sidebar ul {
+    list-style: none;
+}
+
+.sidebar ul li {
+    padding: 10px 0;
+}
+
+.sidebar ul li a {
+    color: white;
+    text-decoration: none;
+    display: block;
+}
+
+/* Esconder elementos */
+.hidden {
+    display: none;
+}
+
+/* Conteúdo principal */
+.content {
+    flex: 1;
+    padding: 20px;
+    margin-left: 250px;
+    transition: margin-left 0.3s ease-in-out;
+}
+
+.content.full-width {
+    margin-left: 0;
+}
+
+/* Botão Home/Menu */
+.home-btn {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    background: #000;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 5px;
+    z-index: 1000;
+    transition: all 0.3s;
+}
