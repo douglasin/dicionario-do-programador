@@ -33,7 +33,7 @@ Este projeto está organizado em três fases principais:
    - [PROJETO-HTML](https://github.com/WAllisonDuarte/PROJETO-HTML)
    - [Estudo Dirigido - danielvidal2005](https://github.com/danielvidal2005/estudo-dirigido)
    - [Estudo Dirigido - Gabrielff748](https://github.com/Gabrielff748/Estudo-dirigido)
-   - [Repositório DevSamuelJ](https://github.com/DevSamuelJ/DevSamuelJ) 
+   - [Repositório DevSamuelJ](https://github.com/DevSamuelJ/Estudo-dirigido.git) 
 ✅ Identificar as cores principais do projeto utilizando **ColorZilla** (extensão do Chrome).  
 ✅ Definir a paleta de cores e documentar no repositório. Definir cores como variáveis no css  
 ✅ Identificar as fontes utilizadas e garantir a consistência visual.  
