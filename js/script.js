@@ -54,3 +54,19 @@ function showPage(pageId) {
         }
     });
 }
+
+
+function showSubtopic(subtopicId) {
+    const subtopic = document.querySelectorAll('.subtopic');
+
+    subtopic.forEach(subtopic => {
+        if (subtopic.id === subtopicId
+        ){
+            subtopic.classList.remove('hidden');
+        }else{
+            subtopic.classList.add('hidden')
+        }
+    });
+}
+
+  
